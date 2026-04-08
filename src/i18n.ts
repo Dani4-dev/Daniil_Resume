@@ -25,7 +25,7 @@ const resources = {
       cv_ja_label: "Japanese Version",
       photo_path: "my-photo.png", // Добавьте путь к вашему фото здесь
       download_cv: "Download CV",
-      resume_title: "Resume",
+      resume_title: "Daniil Resume",
       projects_title: "Featured Projects",
       projects: [
         {
@@ -160,7 +160,7 @@ const resources = {
       cv_ja_label: "Японская версия",
       photo_path: "my-photo.png", // Добавьте путь к вашему фото здесь
       download_cv: "Скачать резюме",
-      resume_title: "Резюме",
+      resume_title: "Daniil Resume",
       projects_title: "Проекты",
       projects: [
         {
@@ -295,7 +295,7 @@ const resources = {
       cv_ja_label: "日本語版",
       photo_path: "my-photo.png",
       download_cv: "履歴書をダウンロード",
-      resume_title: "履歴書",
+      resume_title: "Daniil Resume",
       projects_title: "プロジェクト",
       projects: [
         {
