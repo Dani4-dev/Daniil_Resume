@@ -50,7 +50,7 @@ const resources = {
       experience_title: "Work Experience",
       experience: [
         {
-          company: "Kamchatka State Technical University",
+          company: "Kamchatka State Technical College",
           title: "Software Technician",
           position: "IT Department",
           duration: "Dec 2022 - Sep 2023",
@@ -185,7 +185,7 @@ const resources = {
       experience_title: "Опыт работы",
       experience: [
         {
-          company: "Камчатский государственный технический университет",
+          company: "Камчатский политехнический техникум",
           title: "Техник-программист",
           position: "ИТ-отдел",
           duration: "Декабрь 2022 - Сентябрь 2023",
@@ -320,7 +320,7 @@ const resources = {
       experience_title: "職務経歴",
       experience: [
         {
-          company: "カムチャツカ工科大学",
+          company: "カムチャツカ工科専門学校",
           title: "プログラミング技術者",
           position: "IT部門",
           duration: "2022年12月 - 2023年09月",
