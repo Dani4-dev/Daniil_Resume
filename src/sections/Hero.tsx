@@ -55,6 +55,8 @@ export const Hero = () => {
         </button>
         <a 
           href={`mailto:${t('email')}`} 
+          target="_blank"
+          rel="noopener noreferrer"
           className="px-8 py-4 rounded-2xl border border-(--border) hover:bg-(--code-bg) transition-colors inline-block"
         >
           {t('contact')}
