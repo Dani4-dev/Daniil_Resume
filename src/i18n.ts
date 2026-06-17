@@ -10,7 +10,7 @@ declare module 'i18next' {
 }
 
 const GITHUB_URL = "https://github.com/Dani4-dev";
-const CONTACT_EMAIL = "dahu4san500@gmail.com";
+const CONTACT_EMAIL = "daniilnihon@gmail.com";
 
 const resources = {
   en: {
