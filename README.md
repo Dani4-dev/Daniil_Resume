@@ -1,5 +1,7 @@
 # Interactive Web Resume
 
+**[🔗 Web Resume / Live Demo / Веб-версия резюме](https://dani4-dev.github.io/Daniil_Resume/)**
+
 **[日本語](#interactive-web-resume-ja) | [English](#interactive-web-resume-en) | [Русский](#interactive-web-resume-ru)**
 
 ---
